@@ -1,0 +1,8 @@
+pandas
+matplotlib
+seaborn
+streamlit
+espn-api
+openpyxl
+PyGithub
+requests
